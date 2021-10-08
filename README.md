@@ -1,4 +1,4 @@
-# NG-Relay Docker Compose
+# NG-Relay Docker Compos
 
 This repository contains an example of how to run the Devo NG-Relay and Devo
 NG-Relay CLI together with [docker compose](https://github.com/docker/compose).
